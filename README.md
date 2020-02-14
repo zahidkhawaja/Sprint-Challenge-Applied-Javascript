@@ -46,7 +46,7 @@ A nodelist is an "array-like object" but lacks all of the array methods such as 
 
 5. What is a component?
 
-A reusable chunk of HTML/CSS/JavaScript (using JavaScript to create elements on the page).
+A reusable section of HTML/CSS/JavaScript (for example, using a JavaScript function to create elements on the page).
 
 ### Git Set up
 
